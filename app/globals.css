@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; background: #0b070a; }
+body { color: #f6ecec; font-family: system-ui, -apple-system, 'Segoe UI', 'Noto Sans Devanagari', sans-serif; -webkit-font-smoothing: antialiased; }
+button { font-family: inherit; }
